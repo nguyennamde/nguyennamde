@@ -69,6 +69,7 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## Project
+
 [![ETL-Project-Covid-19-Data-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=nguyennamde&repo=ETL-Project-Covid-19-Data-Analysis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nguyennamde/ETL-Project-Covid-19-Data-Analysis)
 
 

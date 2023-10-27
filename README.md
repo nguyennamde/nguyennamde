@@ -70,7 +70,10 @@
 
 ## Project
 
-[![ETL-Project-Covid-19-Data-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=nguyennamde&repo=ETL-Project-Covid-19-Data-Analysis&border_color=8F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nguyennamde/ETL-Project-Covid-19-Data-Analysis)
+[![ETL Project Covid-19 Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=nguyennamde&repo=ETL-Project-Covid-19-Data-Analysis&border_color=8F3FBF&bg_color=0D1137&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nguyennamde/ETL-Project-Covid-19-Data-Analysis)
+
+
+[![Crawling Data From E-commerce Page And Build ETL Pipeline to Warehouse For Analysis](https://github-readme-stats.vercel.app/api/pin/?username=nguyennamde&repo=Crawl-Tiki-For-Analysis&border_color=8F3FBF&bg_color=0D1137&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nguyennamde/Crawl-Tiki-For-Analysis)
 
 
 
